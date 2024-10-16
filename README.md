@@ -32,8 +32,15 @@ Sweet Bonanza предлагает пользователям уникальны
 
 1. Склонируйте репозиторий:
 
-   ```git clone https://github.com/Chornei-Olha/testove_sweet-bonanza.git
-
+   ```bash
+   git clone https://github.com/Chornei-Olha/testove_sweet-bonanza.git
+   
 2. Перейдите в папку проекта:
 
-```cd testove_sweet-bonanza
+```bash
+   cd testove_sweet-bonanza
+
+3. Установите зависимости (если есть):
+
+```bash
+npm install
