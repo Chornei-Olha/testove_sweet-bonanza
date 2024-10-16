@@ -1,6 +1,6 @@
 # Sweet Bonanza
 
-![Sweet Bonanza]([https://your-image-url.com/image.png](https://github.com/Chornei-Olha/testove_sweet-bonanza))
+https://github.com/Chornei-Olha/testove_sweet-bonanza
 
 **Sweet Bonanza** — это увлекательный и интерактивный веб-сайт, вдохновлённый популярной игрой. На нашем сайте вы можете наслаждаться сладкими моментами и выиграть разнообразные бонусы.
 
