@@ -29,14 +29,16 @@ Sweet Bonanza предлагает пользователям уникальны
 
 1. Склонируйте репозиторий:
 
-   ```bash
-   git clone https://github.com/Chornei-Olha/testove_sweet-bonanza.git
-   
+ ```bash
+git clone https://github.com/Chornei-Olha/testove_sweet-bonanza.git
+   ```
+
 2. Перейдите в папку проекта:
 
 ```bash
    cd testove_sweet-bonanza
 ```
+
 3. Установите зависимости (если есть):
 
 ```bash
@@ -48,9 +50,10 @@ npm install
 ```bash
 npm start
 ```
-##🎨 Технологии
+
+## 🎨 Технологии
 Этот проект был создан с использованием следующих технологий:
 
-HTML
-CSS
-JavaScript
+- HTML;
+- CSS;
+- JavaScript
